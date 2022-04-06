@@ -1,2 +1,3 @@
 # My-machine-learning-study
-My learning path of machine learning
+
+Ini adalah kumpulan file berbasis note book yang berisi catetan catetan saya tentang machine learning
